@@ -6,6 +6,6 @@ modules = {
 
     backbone {
         dependsOn 'underscore', 'json2'
-        resource url: '/js/backbone.js'
+        resource url: '/js/backbone-0.9.9.js'
     }
 }
